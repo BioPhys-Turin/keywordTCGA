@@ -1,0 +1,5 @@
+outs:
+- md5: a6bc65560cd6439fc731aedf04ab9254
+  size: 370564
+  path: files_manifest.dat
+  isexec: true

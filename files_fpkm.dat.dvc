@@ -1,0 +1,5 @@
+outs:
+- md5: 3c33f05f3cde53760096ceaa52deb6b1
+  size: 199779
+  path: files_fpkm.dat
+  isexec: true

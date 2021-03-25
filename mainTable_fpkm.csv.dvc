@@ -1,0 +1,5 @@
+outs:
+- md5: c12127014d8f8e73d855413f0c408874
+  size: 98607359
+  path: mainTable_fpkm.csv
+  isexec: true
