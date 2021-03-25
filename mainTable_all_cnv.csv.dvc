@@ -1,5 +1,0 @@
-outs:
-- md5: c25f3c54135090dd78ebba949018bef5
-  size: 34306368
-  path: mainTable_all_cnv.csv
-  isexec: true
