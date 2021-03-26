@@ -10,3 +10,5 @@ manifest.txt
 miRNA.txt
 /graph_breast_hsbm.xml.gz
 /graph_breast_trisbm.xml.gz
+.ipynb_checkpoints/
+brca/
