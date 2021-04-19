@@ -13,3 +13,5 @@ miRNA.txt
 .ipynb_checkpoints/
 brca/
 slda/
+
+figures/
