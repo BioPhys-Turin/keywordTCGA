@@ -12,6 +12,7 @@ miRNA.txt
 /graph_breast_trisbm.xml.gz
 .ipynb_checkpoints/
 brca/
+brca_subtypes/
 slda/
 
 figures/
