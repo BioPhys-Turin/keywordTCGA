@@ -20,3 +20,4 @@ tmp.xml.gz
 *.pdf
 *.png
 /graph_breast_tetrasbm.xml.gz
+/graph_breast_pentasbm.xml.gz
