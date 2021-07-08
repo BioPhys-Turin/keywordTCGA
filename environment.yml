@@ -1,0 +1,15 @@
+name: keywordtcga
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - numpy
+  - matplotlib-base
+  - nsbm
+  - pip:
+    - seaborn
+    - topicpy
+    - cloudpickle
+    - pandas
+    - sklearn
+    - plotly
