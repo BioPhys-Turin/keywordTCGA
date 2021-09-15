@@ -24,3 +24,4 @@ tmp.xml.gz
 /graph_breast_ssm.xml.gz
 /graph_breast_cnv.xml.gz
 __pycache__
+*.skip
