@@ -25,3 +25,5 @@ tmp.xml.gz
 /graph_breast_cnv.xml.gz
 __pycache__
 *.skip
+c14q32.txt
+c14q32.ipynb
