@@ -1,0 +1,4 @@
+outs:
+- md5: c8ca29376150ae0af50a5222c9ad96ba
+  size: 2451544
+  path: mainTable_ssm.csv

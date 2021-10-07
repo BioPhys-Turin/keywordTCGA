@@ -1,0 +1,5 @@
+outs:
+- md5: b4d158149de56174dcdc9c68cb4285b3
+  size: 2089001
+  path: mart_export.txt
+  isexec: true
