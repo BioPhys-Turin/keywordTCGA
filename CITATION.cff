@@ -1,0 +1,17 @@
+ff-version: 1.2.0
+message: "Please cite the paper below."
+authors:
+- family-names: "Valle"
+  given-names: "Filippo"
+  orcid: "https://orcid.org/0000-0003-3577-8667"
+- family-names: "Osella"
+  given-names: "Matteo"
+  orcid: "https://orcid.org/0000-0002-4916-5434"
+- family-names: "Caselle"
+  given-names: "Michele"
+  orcid: "https://orcid.org/0000-0001-5488-142X"
+title: "keyworsTCGA"
+version: 1.0.0
+doi: 10.1101/2021.12.22.473851
+date-released: 2021-12-23
+url: "https://github.com/BioPhys-Turin/topicTCGA"
