@@ -1,0 +1,4 @@
+outs:
+- md5: eb113fc12e5ddda11440f3d5242e3509
+  size: 17273918
+  path: graph_metabric_hsbm.xml.gz

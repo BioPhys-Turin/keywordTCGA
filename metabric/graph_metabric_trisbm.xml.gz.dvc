@@ -1,0 +1,4 @@
+outs:
+- md5: 0a78a58db47d830139f9d1940722049a
+  size: 36929454
+  path: graph_metabric_trisbm.xml.gz
