@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1101/2021.12.22.473851.svg)](https://doi.org/10.1101/2021.12.22.473851)
 
-# A Keywords..
+# Multi-omics topic odeling for breast cancer
 
 Notebooks and libraries for "Multi-omics Topic Modeling for Breast Cancer Classification"
 
@@ -18,6 +18,9 @@ The data processed in our analysis when not available trough git can be accessed
 ```bash
 dvc pull -r mydrive
 ```
+
+# Tool
+This paper comes with the [nsbm](https://github.com/fvalle1/nsbm/) tool available which enables the possibility of running multi omics topic modeling on many kind of data.
 
 # License
 Please see [LICENSE](LICENSE)
