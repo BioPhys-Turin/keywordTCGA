@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.1101/2021.12.22.473851.svg)](https://doi.org/10.1101/2021.12.22.473851)
+[![DOI](https://zenodo.org/badge/DOI/10.3390/cancers14051150.svg)](https://doi.org/10.3390/cancers14051150)
 
 # Multi-omics topic odeling for breast cancer
 

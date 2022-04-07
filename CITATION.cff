@@ -10,8 +10,8 @@ authors:
 - family-names: "Caselle"
   given-names: "Michele"
   orcid: "https://orcid.org/0000-0001-5488-142X"
-title: "keyworsTCGA"
+title: "Multiomics Topic Modeling for Breast Cancer Classification"
 version: 1.0.0
-doi: 10.1101/2021.12.22.473851
+doi: 10.3390/cancers14051150
 date-released: 2021-12-23
 url: "https://github.com/BioPhys-Turin/keywordTCGA"
